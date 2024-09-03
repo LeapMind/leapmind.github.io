@@ -1,0 +1,123 @@
+{
+  "pageHeader": {
+    "description": "Efficiera comes with a comprehensive AI software suite that allows you to compile AI models and implement AI applications in production environments"
+  },
+  "lead": {
+    "title": "Software Development Kit Optimized for Quantized Models, Bringing AI to Practical Use",
+    "text1": "For using Efficiera, software plays a pivotal role. Addressing the quantization of neural network becomes a critical concern.",
+    "text2": "However, most neural network frameworks do not support extremely low bit quantization by default. Hence, it is necessary to implement a quantizer for the neural network",
+    "text3": "It also requires implementing a proprietary AI model compiler for Efficiera, and designing its own network architecture to maximize the performance. For Efficiera, the software is as important as the hardware.",
+    "text4": "LeapMind provides a comprehensive software suite that automatically optimizes these processes.",
+    "button": "Product Inquiry"
+  },
+  "features": {
+    "efficieraNDK": {
+      "subTitle": "Model Building & Training",
+      "lists": {
+        "item1": "Operator library for Extremely low bit quantization model",
+        "item2": "PyTorch support"
+      }
+    },
+    "efficieraConverter": {
+      "subTitle": "Model Conversion & Optimization",
+      "lists": {
+        "item1": "Converted to Efficiera executable instruction format",
+        "item2": "Memory bandwidth optimization",
+        "item3": "Parallelization of data transfers and operations",
+        "item4": "Provides performance profiling tools"
+      }
+    },
+    "efficieraRuntimeLibrary": {
+      "subTitle": "Deploy and Run",
+      "lists": {
+        "item1": "Runtime API（Python, C++）",
+        "item2": "Run state management of multiple models",
+        "item3": "Provides a simulator environment"
+      }
+    }
+  },
+  "workflow": {
+    "images": {
+      "ja": {
+        "alt": ""
+      },
+      "en": {
+        "alt": "Workflow with Efficiera SDK"
+      }
+    }
+  },
+  "functions": {
+    "section1": {
+      "section1": {
+        "title": "Feature",
+        "lists": {
+          "item1": "The only environment capable of developing deep learning models for Extremely low bit quantization",
+          "item2": "Libraries for deep learning frameworks, defining operators that can be executed by Efficiera and Runtime Library",
+          "item3": "Models can be built without special attention to the operators required for learning the quantization and scaling coefficients, which is a feature of Extremely low bit quantization.",
+          "item4": "Utilize PyTorch functionality, such as visualization with TensorBoard, without modification",
+          "item5": "Export study results in ONNX format"
+        }
+      },
+      "section2": {
+        "title": "Supported Frameworks",
+        "lists": {
+          "item1": "PyTorch"
+        }
+      },
+      "section3": {
+        "title": "Operating environment",
+        "lists": {
+          "item1": "Ubuntu 18.04 or 20.04 environment with CUDA-enabled GPU"
+        }
+      }
+    },
+    "section2": {
+      "section1": {
+        "title": "Feature",
+        "lists": {
+          "item1": "The only tool capable of converting an Extremely low bit quantized deep learning model into an instruction for Efficiera",
+          "item2": "Convert ONNX format learned and exported using Efficiera NDK into a sequence of instructions that Efficiera IP can execute",
+          "item3": {
+            "title": "Advanced optimization to meet resource and memory bandwidth constraints for specified Efficiera configurations",
+            "lists": {
+              "item1": "High speed by parallel execution of data transfer and arithmetic operations",
+              "item2": "Power saving by reduced memory access"
+            }
+          },
+          "item4": {
+            "title": "Estimate the number of execution cycles, memory bandwidth, and memory usage for a given Efficiera configuration",
+            "lists": {
+              "item1": "Efficiera configurations can be selected to suit the size and structure of the model"
+            }
+          }
+        }
+      },
+      "section2": {
+        "title": "Operating environment",
+        "lists": {
+          "item1": "Ubuntu 18.04 environment for Intel 64/AMD64 processors"
+        }
+      }
+    },
+    "section3": {
+      "section1": {
+        "title": "Feature",
+        "lists": {
+          "item1": "Runtime library for applications that maximize the performance of Efficiera-equipped hardware",
+          "item2": "Provides API to execute the instruction sequence output from Efficiera Converter on the target",
+          "item3": "Capable of managing correspondence between multiple deep learning models, Efficiera instances, and CPU threads",
+          "item4": "Accelerated by CPU SIMD instructions when available",
+          "item5": "Define APIs for C++ and Python",
+          "item6": "Simulators on the host environment are also provided, allowing application development even when the target is not yet complete."
+        }
+      },
+      "section2": {
+        "title": "Operating environment",
+        "lists": {
+          "item1": "Target (actual device): Ubuntu environment for Armv8-A AArch64 and Armv7-A processors",
+          "item2": "Host: Ubuntu 18.04 environment for Intel 64/AMD64 processors"
+        }
+      }
+    }
+  }
+}

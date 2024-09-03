@@ -1,0 +1,85 @@
+{
+  "pageHeader": {
+    "description": "As an AI accelerator, its outstanding performance in PPA(Power, Performance, and Area) enables practical AI models to run on edge devices."
+  },
+  "lead": {
+    "title": "Superior power and area efficiency: Enabling AI devices to be more power-saving and cost-efficient",
+    "text1": "In order to operate practical AI, the hardware computing performance and power consumption have significant impacts due to its enormous amount of calculations, and it is difficult to practically operate AI on edge devices unless semiconductor performance dramatically evolves.",
+    "text2": "In response to this challenge, we have developed an ultra-low power AI accelerator IP specialized for CNN (Convolutional Neural Network) inference processing that achieves 107.8 TOPS/W* of computing power, thereby contributing to the practical use of AI. We also have completed successful SoC development at TSMC 28nm and 12nm using this IP**.",
+    "text3": "Additionally, ISO 9001 certification has also been granted to meet quality requirements.",
+    "text4": "Our strength is to maximize the power and area efficiency of convolution (convolution operation), which accounts for most of the inference processing, by minimizing the quantization bit to 1-2 bits using our ”Extremely low bit quantization” technology. There is no need to use the latest semiconductor manufacturing process or special cell libraries.",
+    "text5": "By using Efficiera, deep learning functions can be embedded in a variety of edge devices, including consumer devices such as smartphones and digital cameras, automotive, industrial equipment, construction machinery, surveillance cameras, and broadcasting equipment, where all these devices were deemed difficult to incorporate deep learning due to technical constraints caused by power, heat dissipation and cost.",
+    "caption1": "*TOPS/W: Tera operations per second per watt.",
+    "caption2": "*Estimated values based on logic synthesis results using Cadence Genus Synthesis Solution. (Operating frequency:533Mhz, Process:7nm, as of July 2023)",
+    "button": "Product Inquiry",
+    "image": {
+      "alt": "AI task and required performance"
+    }
+  },
+  "features": {
+    "image1": {
+      "alt": "Accelerator Core Image"
+    },
+    "image2": {
+      "ja": {
+        "alt": ""
+      },
+      "en": {
+        "alt": "Workflow with Efficiera SDK"
+      }
+    },
+    "alt2": "Comparison chart between Efficiera IP and 1 cent",
+    "section1": {
+      "title": "Superior power performance for AI processing on edge devices",
+      "text": "LeapMind's proprietary AI accelerator, Efficiera, achieves power performance of up to 107.8 TOPS/W* and can process high-quality images and video in real-time on edge devices.",
+      "caption": "*Terra operations per second per watt"
+    },
+    "section2": {
+      "title": "Area-saving semiconductor circuits specialized for CNN (Convolutional Neural Networks)",
+      "text1": "Convolutional neural nets offer the flexibility to operate in any network task and, in their smallest configuration, have a very small circuit size of 0.245㎟, thus eliminating the need for advanced manufacturing techniques and significantly reducing power consumption.",
+      "text2": "Using the low-power 6-track cell library, 533 MHz operation is achieved by using only STV cells. The operating frequency can be further increased to 1066 MHz.",
+      "text3": ""
+    },
+    "section3": {
+      "title": "Performance scalability of Efficiera®️",
+      "text1": "Efficiera is provided as synthesizable RTL.",
+      "text2": "By adjusting computing performance through channel configuration selection and CPU occupancy, the system can handle the required hardware performance range for real-time (around 60 FPS) processing of image recognition tasks such as object detection as well as image processing tasks such as image quality improvement."
+    }
+  },
+  "functions": {
+    "section1": {
+      "title": "Hardware Features",
+      "list": {
+        "item1": "Multiplexed MAC arrays + multi-core for high performance scalability",
+        "item2": "High speed-up by hardware execution of Skip connection(*1) and Pixel Embedding(*2) in addition to convolution and quantization"
+      },
+      "caption1": "*1 Skip connection is an operation method often used in CNN (Convolutional Neural Network) with a large number of layers, which enables forward and backward propagation between distant layers by bypassing a path that skips N layers in the middle of a layer and connecting it to the next layer.",
+      "caption2": "*2 Pixel embedding is LeapMind's proprietary technology (patent number:), a method similar to word embedding used in natural language processing, in which a random value is assigned to each pixel value, a vector is input to the network instead of pixel values, and the input data is quantized A technique that converts the first and last layers to 2-bit by using"
+    },
+    "section2": {
+      "title": "Integration into SoC",
+      "list1": {
+        "item1": "AMBA AXI Interface"
+      },
+      "text1": "Continued use of AMBA AXI for external interface, with the same interface as before when viewed as a black box, allowing easy migration from existing designs",
+      "list2": {
+        "item1": "Single clock domain design"
+      }
+    },
+    "section3": {
+      "title": "Operating Frequency",
+      "list1": {
+        "item1": "1GHz at 12nm, 800MHz at 28nm",
+        "item2": "Applicability can be extended to 256 GOP/s with FPGA@125MHz and 104 TOP/s with 12nm process technology."
+      }
+    }
+  },
+  "productLineup": {
+    "item1": {
+      "text": "Ultra-efficient IP for image recognition applications. Primarily, it is capable of performing ultra-fast image recognition in demanding environments with high latency requirements due to multi-channel input, at low power consumption and low memory bandwidth."
+    },
+    "item2": {
+      "text": "This is an ultra-efficient IP for image processing applications. It can perform tasks that were previously unfeasible, mainly in scenarios that require real-time and highly accurate processing, such as noise reduction during night shooting, upscaling to 8K, and image stabilization."
+    }
+  }
+}

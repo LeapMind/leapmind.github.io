@@ -1,0 +1,39 @@
+{
+  "mission": {
+    "text1": "To create innovative devices with machine learning and",
+    "text2": "make them available everywhere"
+  },
+  "vision": {
+    "text1": "To provide key technologies to bring next-generation information devices into reality"
+  },
+  "message": {
+    "text1": "Society is changing every minute with the evolution of technology.\n\nWith breakthrough innovations in devices and widespread use of IT infrastructure, we've been able to collect and utilize a lot of data. With the practical application of machine learning, the accuracy of analysis has increased. The use of data is becoming more and more familiar to us.\n\nMachine learning powered devices produce even better data. The data cycle flows at an ever-increasing speed. It will make people's lives more convenient.",
+    "text2": "We were among the first to predict such a future. I've been running a machine learning based business since 2012.",
+    "text3": "Many companies and organizations have recognized us for our technological capabilities and foresight, and we've been working on a lot of projects using machine learning.\nUnfortunately, not so many cases have resulted in social implementation.\nThere were two challenges that existed.\n\nOne of our goals is to build a model of pragmatic machine learning.\n*For that, we needed to develop high-quality machine learning models in order to use machine learning for problems that could not be solved until now.",
+    "text4": "Second is to develop a computational environment to make machine learning models work in a practical way.\nThere was no definitive device to make it work practically in a resource-constrained setting, such as edge computing.\n\nTo make people's lives more convenient with machine learning-based devices, we have to overcome two challenges. Since we are now working diligently with our colleagues with diverse skills to meet the needs of our customers, we have sought out the following two approaches; ”Development of good machine learning models” and ”Development of high-speed, highly efficient hardware IP”.",
+    "text5": "By approaching from both software and hardware perspectives, we will make the impossible possible. That future is within our reach.",
+    "text6": "We believe that we can enrich people's lives by developing the key technologies of the future and make them available to the world.",
+    "signature": "CEO　Soichi Matsuda"
+  },
+  "boardMembers": {
+    "ceo": {
+      "alt": "Image of Soichi Matsuda",
+      "position": "CEO",
+      "name": "Soichi Matsuda",
+      "caption": "In 2011, he launched a matching service for engineers and clients based on engineering skill visualization, which was expanded to Singapore, and got his business acquired. He founded LeapMind to create a platform of “compact and simple“ deep learning technologies that is easily accessible to anyone, thereby contributing to our society and advancing the world."
+    },
+    "cto": {
+      "alt": "Image of Takanori Tokunaga",
+      "position": "CTO",
+      "name": "Hiroyuki Tokunaga",
+      "caption": "He completed his master's program at the University of Tokyo Graduate School of Information Science and Engineering in 2007.\nPrior to becoming a Director and the CTO of LeapMind in 2018, he worked for Yahoo Japan Corporation, Preferred Infrastructure, Inc., and Smart News, Inc."
+    }
+  },
+  "historyOutline": {
+    "text": "The history of the company's growth from its inception to the present day and some basic company information."
+  },
+  "access": {
+    "text1": "3F, Dogenzaka Sky Bldg, 28-1 Maruyama-cho Shibuya-ku,",
+    "text2": "Tokyo, 150-0044, Japan"
+  }
+}

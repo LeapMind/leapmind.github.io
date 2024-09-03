@@ -1,0 +1,7 @@
+{
+  "description": "Object detection models that have a wide range of applications and can operate on edge devices.",
+  "odText": "The technology outputs a rectangle enclosing each of objects in the input image, and can be used for detecting where people, faces, cars, signs, etc. are located in the image.",
+  "segmentationText": "This technology paints areas in the input image with different colors so that each pixel is associated with a category it belongs to.",
+  "poseEstimationText": "This technique estimates the positions of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections from images.",
+  "ClassificationText": "This technology recognizes what the input image shows and outputs the category label associated with it."
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Downloads",
+  "selectedFiles": "つのファイル選択中",
+  "noFileSelected": "ファイルが選択されていません",
+  "downloadButton": "資料をダウンロード",
+  "nextStepInfo": "次のステップでお客様情報をご入力していただく必要があります",
+  "noFilesAvailable": "ダウンロード可能なファイルはありません",
+  "entryLead": "LeapMind製品の資料をダウンロードいただくために以下の内容をご入力ください。",
+  "downloadFileTitle": "ダウンロード資料",
+  "noFilesSelected": "ダウンロード資料が選択されていません",
+  "complete": {
+    "title": "資料のダウンロード完了",
+    "text": "資料をお申し込みいただき、ありがとうございました。",
+    "button": "トップページへ戻る"
+  }
+}

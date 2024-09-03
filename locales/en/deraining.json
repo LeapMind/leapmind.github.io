@@ -1,0 +1,59 @@
+{
+  "pageHeader": {
+    "description": "AI technology to remove raindrops, improving visibility when shooting outdoors in rain"
+  },
+  "model": {
+    "text": "This technology uses AI to remove water droplets from the surface of the camera lens after shooting. It improves the visibility of images taken under rainy outdoors, by in-vehicle cameras, surveillance cameras, etc.",
+    "button": "Product Inquiry",
+    "alt1": "Original image",
+    "alt2": "Comparison image",
+    "caption": "Move the slider to the left or right to see the image before and after processing."
+  },
+  "useCase": {
+    "item1": {
+      "title": "In-vehicle camera (improving object recognition accuracy in rainy weather for rear-view monitors and digital mirrors)",
+      "text": "In an emergency situation such as an accident or collision, by removing raindrops and water droplets from the image after recording, the details of the accident and the damage can be clearly detected. It is useful for identifying the cause of the accident and for insurance claims."
+    },
+    "item2": {
+      "title": "Outdoor robots ( improving forward recognition accuracy of cleaning robots and transport robots)",
+      "text": "By removing raindrops from images taken by robots, even in disasters in rainy weather, the situation can be assessed more accurately and quickly."
+    },
+    "item3": {
+      "title": "Outdoor surveillance camera (improving monitoring accuracy in rainy weather)",
+      "text": "It makes it easier to identify objects and people, prevents accidents, and ensures safety. Clear images can be available even in the rain, which improves the efficiency of analysis and other operations."
+    },
+    "item4": {
+      "title": "Drone (Sharpening images taken in rainy weather)",
+      "text": "It enables accurate data collection and analysis even in rainy weather in various fields where visual information is required, such as disaster surveys and land surveying."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

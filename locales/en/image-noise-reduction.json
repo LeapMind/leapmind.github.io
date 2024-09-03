@@ -1,0 +1,64 @@
+{
+  "pageHeader": {
+    "description": "AI noise reduction for high resolution in dark conditions"
+  },
+  "model": {
+    "text1": "This technology uses AI to reduce high-ISO noises caused by shooting in low-light conditions, to enhance resolution.",
+    "text2": "High resolution can be achieved in real-time even in lightweight devices like smartphones, where it is difficult to embed large image sensors, and in industrial cameras used in dark places.",
+    "button": "Product Inquiry",
+    "alt1": "Original image",
+    "alt2": "Comparison image",
+    "caption": "Move the slider to the left or right to see the image before and after processing."
+  },
+  "useCase": {
+    "item1": {
+      "title": "Digital camera (night mode shooting - low noise high-ISO shooting)",
+      "text": "Effective for night scenes and illumination, as well as for starry skies and galaxies that require long exposures. It can also clearly reproduce high-contrast scenes such as morning sunrises in mountainous areas, and low-angle portraits such as candlelight and people."
+    },
+    "item2": {
+      "title": "Industrial camera (for logistics warehouses and factories under dark conditions, improved detection and inspection systems)",
+      "text": "Expected to improve the accuracy of detection and inspection in dark areas, such as in distribution warehouses and factories. Low-noise, high-quality video improves accuracy and supports efficient operations in processes such as barcode reading and quality inspections."
+    },
+    "item3": {
+      "title": "Smartphone (night mode shooting - low light high-resolution shooting)",
+      "text": "Reduces noise when shooting at night or in dark locations, achieving high-resolution photos that retain fine details. Capture clear images with limited light conditions, such as at nighttime events, parties, and outdoor night scenes."
+    },
+    "item4": {
+      "title": "Industrial X-ray inspection camera ( improving inspection system under low dose)",
+      "text": "In low-dose inspections, X-ray images tend to contain a lot of noise, but AI-based noise reduction will enable more accurate detection of minute defects and anomalies. It is also expected to reduce exposure to radiation doses and speed up processing."
+    },
+    "item5": {
+      "title": "Surveillance camera (nighttime surveillance - disaster, nature, port, security)",
+      "text": "Improves the image resolution in nighttime surveillance video. Clear images with reduced noise provide superior performance in a variety of situations, such as disaster monitoring, observation of natural environments, port surveillance, and security cameras, and enable more accurate video analysis and grasp of the situation."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

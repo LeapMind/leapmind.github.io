@@ -1,0 +1,56 @@
+{
+  "model": {
+    "text1": "This technology uses AI to classify each object in images at the pixel level.",
+    "text2": "Each pixel in the image is inferred as to which object it belongs to. It can be used to detect objects that are not suitable for rectangular detection, such as road lanes, cracks in concrete, etc.",
+    "button": "Product Inquiry"
+  },
+  "useCase": {
+    "item1": {
+      "title": "Surveillance camera",
+      "text": "It identifies people and other objects in the video for person detection and behavior analysis. It can also detect specific scratches and cracks at construction sites to help prevent accidents."
+    },
+    "item2": {
+      "title": "Medical Image Analysis",
+      "text": "Can be utilized for MRI, CT scans, etc., and assists doctors to diagnose diseases by segmenting specific tissues and lesion areas."
+    },
+    "item3": {
+      "title": "Example of practical application: Crack detection support system by deep learning",
+      "text1": "In collaboration with Shimizu Corporation, we conducted a demonstration experiment for the construction of a support system aimed at preventing accidents caused by collapsed excavation surfaces near tunnel faces at tunnel excavation sites. For details, please see the ",
+      "link": "press release",
+      "text2": "."
+    },
+    "item4": {
+      "title": "Automatic driving",
+      "text": "From the camera image, it classifies and identifies road white lines, sidewalks, buildings, etc., pixel by pixel, and is used for \"recognition\" by the automatic driving vehicle."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

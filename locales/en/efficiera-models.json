@@ -1,0 +1,93 @@
+{
+  "pageHeader": {
+    "description": "Quantization is one of the methods to make AI models lighter. We can solve the problems faced by edge AI with our ”extremely low-bit quantization technology,” in which models are quantized to the extreme limit of 1 bit."
+  },
+  "lead": {
+    "title": "High-performance AI models for edge devices",
+    "text1": "Limited computing resources, power consumption, and memory limitations, are major issues in running AI on edge devices.",
+    "text2": "LeapMind believes that solving software problems is as important as hardware problems, and attempts to solve these major challenges by rewriting the AI computation method itself.",
+    "text3": "Practical AI models consist of more ( or deeper) convolutional layers, which results in a large amount of overall computation. Performing this computation using floating-point numbers without quantization requires a large number of floating-point units (FPUs) to operate at high operating frequencies, which makes it difficult to make AI models work practically on edge devices.",
+     "text4": "Using extremely low-bit quantization technology, bitwise operations can be used instead of FPUs which require large circuit areas. It dramatically reduces circuit size, RAM to hold weight and activation, and bandwidth to access the main memory.",
+     "text5": "LeapMind offers a range of extremely low-bit quantized AI models that support a wide variety of tasks in edge devices.",
+     "button": "Product Inquiry"
+  },
+  "features": {
+    "section1": {
+      "title": "Minimizing Accuracy Degradation",
+      "text1": "LeapMind uses several methods to prevent accuracy degradation. Typical examples are quantization aware training, doubling channels, and pixel embedding.",
+      "text2": "Quantization aware training is a very important technique for extremely low-bit count quantization. Networks with extremely low quantization bit counts can achieve equivalent accuracy with twice the number of channels (doubling channels).",
+      "text3": "Although the input data to the first convolutional layer is considered difficult to quantize, we have succeeded in quantizing the first convolutional layer using our unique technology called pixel embedding."
+    },
+    "section2": {
+      "title": "Real-time image processing with high-resolution input",
+      "text1": "The amount of computation required for high-resolution input increases, and implementing real-time processing on edge devices with Full Precision has been considered impossible due to the amount of computation, memory, and bandwidth required.",
+      "text2": "However, this can be achieved by compressing the model size and implementing it in consideration of memory bandwidth."
+    },
+    "section3": {
+      "title": "Realtime Image Recognition with Multi Channel/High-Resolution Input",
+      "text1": "In image recognition tasks such as object detection, there is a trade-off between recognition accuracy and model size. Efficiera models can achieve the following performance for even the most demanding applications. (cf. MobileNetV2 SSD-Lite: mAP(0.5): 0.686)",
+      "text2": "• mAP(0.5): 69.8",
+      "text3": "• 30.6GOPS/frame",
+      "text4": "• FPS (operating frequency 500MHz): 401"
+    },
+    "images": {
+      "ja": {
+        "alt1": "",
+        "alt2": ""
+      },
+      "en": {
+        "alt1": "Example of deblurring process",
+        "alt2": "Example of super-resolution processing"
+      }
+    }
+  },
+  "technology": {
+    "video": {
+      "caption": "Audio and subtitles only in Japanese"
+    },
+    "section1": {
+      "alt": "Thumbnail of a video on micro-quantization technology",
+      "title": "Extremely low-bit quantization",
+      "text1": "Quantizing deep learning models makes them lighter and significantly reduces their space and computational complexity. Yet performance degradation can be he kept to a minimum.",
+      "text2": "Specifically, we achieve weight savings by replacing the parameters in an inference model with 1 or 2 bits instead of the usual single-precision floating-point number (32 bits).",
+      "text3": "The limit of quantization without performance degradation is generally believed to be 8 bits, but LeapMind has succeeded in achieving negligible performance degradation even with a combination of 1-bit weight (weight factor) and 2-bit activation (input), which is much less than 8 bits."
+    },
+    "section2": {
+      "title": "Pixel Embedding (Convolutional Arithmetic)",
+      "text1": "LeapMind uses its proprietary ”Pixel Embedding (convolutional operations)” technology for the quantization of the first layer of neural networks, which has a large impact on inference accuracy, as a method of converting input data to minimize accuracy degradation.",
+      "text2": "While the first convolution operation on the input data typically uses floating-point or integer operations with more bits, LeapMind encodes the input data into multiple channels of 2-bit data. This allows the use of extremely low-bit quantization techniques from the first convolution layer."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality"
+    },
+    "videoNR": {
+      "text": "AI technology to achieve high image resolution in real-time for video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    },
+    "anomalyDetection": {
+      "text": "Detects anomalies by training only normal images"
+    }
+  }
+}

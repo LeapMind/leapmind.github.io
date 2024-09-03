@@ -1,0 +1,112 @@
+{
+  "2012": {
+    "dec": {
+      "month": "Dec.",
+      "item1": "LeapMind Inc. (formerly known as AddQuality) established at Meguro-ku, Tokyo"
+    }
+  },
+  "2014": {
+    "aug": {
+      "month": "Aug.",
+      "item1": "Rights Offering to Mr. Kiyoshi Nishikawa, the founder of the formerly known netage,inc. performed"
+    }
+  },
+  "2016": {
+    "jun": {
+      "month": "Jun.",
+      "item1": "Formed a business alliance with Dentsu Isobar Inc."
+    },
+    "aug": {
+      "month": "Aug.",
+      "item1": "Fund-raising of JPY 340 million in total at Series A"
+    },
+    "dec": {
+      "month": "Dec.",
+      "item1": "Collaborated with NTT DATA Corporation"
+    }
+  },
+  "2017": {
+    "feb": {
+      "month": "Feb.",
+      "item1": "Business partnership made with GfK Japan"
+    },
+    "oct": {
+      "month": "Oct.",
+      "item1": "Fund-raising of JPY 1.15 billion in total at Series B"
+    }
+  },
+  "2018": {
+    "feb": {
+      "month": "Feb.",
+      "item1": "The head office relocated to Shibuya Dogenzaka Sky Bldg, Shibuya-ku, Tokyo"
+    },
+    "jun": {
+      "month": "Jun.",
+      "item1": "Hiroyuki Tokunaga was appointed as CTO"
+    },
+    "jul": {
+      "month": "Jul.",
+      "item1": "Launched ”DeLTA-Kit”, an evaluation kit for embedded deep learning models",
+      "item2": "Launched ”DeLTA-Mark”, a solution for building training data for deep learning"
+    },
+    "dec": {
+      "month": "Dec.",
+      "item1": "Started to release Blueoil as an open source"
+    }
+  },
+  "2019": {
+    "oct": {
+      "month": "Oct.",
+      "item1": "Fund-raising of JPY 3.5 billion at Series C"
+    }
+  },
+  "2020": {
+    "apr": {
+      "month": "Apr.",
+      "item1": "Delivered a keynote speech at ”COOL Chip 23”",
+      "item2": "Developed Efficiera, an ultra-low power AI accelerator IP"
+    },
+    "oct": {
+      "month": "Oct.",
+      "item1": "Launched the Efficiera FPGA partner program",
+      "item2": "Officially launched the commercial version of Efficiera, an ultra-low power AI accelerator IP"
+    }
+  },
+  "2021": {
+    "aug": {
+      "month": "Aug.",
+      "item1": "NEC Platforms Compact Box Controller with Ultra-Low Power AI Accelerator IP ”Efficiera”"
+    },
+    "nov": {
+      "month": "Nov.",
+      "item1": "Announced Ultra Low Power AI Accelerator IP ”Efficiera” v2"
+    }
+  },
+  "2022": {
+    "jan": {
+      "month": "Jan.",
+      "item1": "Announced AI Image processing model"
+    },
+    "feb": {
+      "month": "Feb.",
+      "item1": "Signed a license agreement with Maxell Frontier Inc. for ultra-low power consumption AI accelerator IP ”Efficiera”"
+    },
+    "may": {
+      "month": "May.",
+      "item1": "Announced Efficiera Anomaly Detection model"
+    }
+  },
+  "2023": {
+    "jan": {
+      "month": "Jan.",
+      "item1": "LeapMind's deep learning technology is adopted for AI automatic recognition of autonomous mobile robots of Okamura Co., Ltd. "
+    },
+    "jun": {
+      "month": "Jun.",
+      "item1": "Announced “Findra” - Flat-rate edge AI visual inspection software"
+    }
+  },
+  "relatedContent": {
+    "subTitle": ""
+  }
+}

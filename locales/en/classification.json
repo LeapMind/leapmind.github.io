@@ -1,0 +1,41 @@
+{
+  "model": {
+    "text": "This technology uses AI to recognize objects in images and classify categories based on defined features or rules. This is also called image classification.",
+    "button": "Product Inquiry"
+  },
+  "useCase": {
+    "item1": {
+      "title": "Product Classification",
+      "text": "It can be utilized to identify products in supermarkets, e-commerce sites, etc. A camera can capture products and this model can detect and classify them to provide accurate product information and prices."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

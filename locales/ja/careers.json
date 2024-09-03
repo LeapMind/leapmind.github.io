@@ -1,0 +1,99 @@
+{
+  "jobCategory": {
+    "subTitle": "募集職種",
+    "lead": "最先端の機械学習を活用して世界を変革する仲間を求めています。\n年齢・性別・国籍・人種を問わず、多様な価値観や個性を尊重し、それぞれの強みを活かして一緒に成長できる環境を提供します。\nLeapMindで共にキャリアを充実させ、未来を創造しましょう。",
+    "items": [
+      {
+        "title": "Algorithm Engineer / アルゴリズムエンジニア",
+        "url": "https://wrkbl.ink/83XVVro"
+      },
+      {
+        "title": "Lead Machine Learning Engineer / リード機械学習エンジニア",
+        "url": "https://wrkbl.ink/33QwqxG"
+      },
+      {
+        "title": "Business Development（Management level）/ 新規事業開発 (マネージャークラス)",
+        "url": "https://wrkbl.ink/d86bSPM"
+      },
+      {
+        "title": "Marketing Communication and Promotion / マーケティング・広報",
+        "url": "https://wrkbl.ink/erQ4KJi"
+      },
+      {
+        "title": "Human Resources（Management level）/ 人事（マネージャークラス）",
+        "url": "https://apply.workable.com/leapmindzhu-she/j/0514443E8B/"
+      }
+    ],
+    "button": "採用情報の詳細はこちら"
+  },
+  "environment": {
+    "subTitle": "働く環境",
+    "lead": {
+      "text1": "社会人で博士号を取得したい方や、家庭の事情で短期、リモートワークをしたい方など個別の事情や要望にあわせた働き方を提供しています。\n詳細な条件は職種ごとに異なりますので、",
+      "link": "各募集職種",
+      "text2": "の詳細をご覧ください。"
+    },
+    "workStyle": {
+      "text": "フルフレックス制度、フルリモートワーク、リフレッシュ休暇などの柔軟な働き方が可能です。"
+    },
+    "officeEvent": {
+      "text": "全社員の情報共有とコミュニケーションの活性化のため、交流会やバーベキューを実施しています。"
+    },
+    "1on1": {
+      "text": "社員の成長サポートのため、個別面談を実施し、コミュニケーションを深めています。"
+    },
+    "development": {
+      "text": "開発環境をより良くするため、オフィスでは4Kモニタとラップトップ、ハイバックチェアを支給しています。 在宅勤務手当の支給もあります（月額上限5,000円）。"
+    },
+    "educationSupport": {
+      "text": "Courseraの受講や書籍購入などスキルアップのために必要な費用などをサポートします。"
+    },
+    "freeDrink": {
+      "text": "オフィスではミネラルウォーター、コーヒー、終業後はアルコールも無料です。"
+    },
+    "holiday": {
+      "text": "完全週休2日制(土・日)、祝日、会社が定める日（年末年始他）\n有給休暇（入社３ヶ月経過後５日間付与、6ヶ月経過後5日間付与）\n特別休暇（慶弔休暇：結婚、配偶者の出産、忌引き）リフレッシュ休暇など"
+    }
+  },
+  "culture": {
+    "techVenture": {
+      "text": "多様なバックグラウンドを持つメンバーが集まり、お互いの違いを尊重し合いながら、チームとして成長しています。"
+    },
+    "diversity": {
+      "items": {
+        "item1": "6ヶ国から集まったメンバー",
+        "item2": "英語と日本語が飛び交い、英語での会議も多い",
+        "item3": "マネージャー、エンジニアなど、組織のあらゆるレイヤーポジションで女性社員が活躍"
+      }
+    },
+    "openMinded": {
+      "items": {
+        "item1": "フルフレックス制度、フルリモートワーク",
+        "item2": "ボードメンバーとの距離が近い"
+      }
+    }
+  },
+  "interview": {
+    "subTitle": "社員インタビュー",
+    "person1": {
+      "title": ""
+    },
+    "person2": {
+      "title": "偉大な目標へ挑戦する勇気に影響"
+    },
+    "person3": {
+      "title": "研究開発した技術の社会実装を実現したい"
+    },
+    "person4": {
+      "title": "エキサイティングな開発環境でのチャレンジと成長"
+    }
+  },
+  "introduction": {
+    "subTitle": "会社紹介資料",
+    "lead": "LeapMindの会社紹介と採用方針について",
+    "slide": {
+      "title": "LeapMind 会社紹介資料 / Careers-short(JP)"
+    },
+    "button": "Notionで詳細を見る"
+  }
+}

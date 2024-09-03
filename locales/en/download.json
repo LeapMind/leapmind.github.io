@@ -1,0 +1,16 @@
+{
+  "title": "Downloads",
+  "selectedFiles": " files selected",
+  "noFileSelected": "No file selected",
+  "downloadButton": "Download",
+  "nextStepInfo": "You will need to enter your information in the next step",
+  "noFilesAvailable": "No files available for download",
+  "entryLead": "Please fill in the following details to download the LeapMind product information request.",
+  "downloadFileTitle": "Download Materials",
+  "noFilesSelected": "No download materials selected.",
+  "complete": {
+    "title": "Download Completed",
+    "text": "Thank you for requesting the materials.",
+    "button": "Back to Top"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pageHeader": {
+    "description": "Object detection models with a wide range of applications running on edge devices"
+  },
+  "model": {
+    "text1": "It infers the position, size, and class information of the detection target from images. Combined with various logic to process this information, it can be extended to a wide range of applications.\nThe unique object detection model of LeapMind is built on the premise of quantization, and several options are available, e.g., one that provides the same accuracy as general object detection models for GPUs, and one that provides a processing speed of over 60 fps for 320x320 RGB images even when using a small FPGA device.",
+    "button": "Product Inquiry"
+  },
+  "useCase": {
+    "item1": {
+      "title": "Surveillance camera for working vehicle (safety management around agricultural and construction machinery)",
+      "text": "Can be applied to safety management around agricultural and construction machinery. It also provides a safe working environment for work vehicle operators by detecting people and obstacles in real-time and issuing warnings."
+    },
+    "item2": {
+      "title": "Traffic Systems (Traffic Analysis)",
+      "text": "Detects and counts the number of vehicles on the road. Traffic volume fluctuations at specific times of the day and in specific areas can be determined, which can improve traffic planning and traffic control."
+    },
+    "item3": {
+      "title": "Drive recorder ( driving situation analysis)",
+      "text": "A vehicle-mounted camera detects pedestrians, vehicles, and other objects. This makes it possible to detect accidents and dangerous situations in advance and warn drivers. The recorded data can also be used to analyze the driver's situation and behavior, as well as for accidents and problems."
+    },
+    "item4": {
+      "title": "Outdoor surveillance camera (restricted area monitoring)",
+      "text": "Detecting people and vehicles in real-time and immediately warning of unusual activity or intrusion. It can ensure environmental safety measures."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "pageHeader": {
+    "description": "Efficieraには、AIモデルのコンパイルと、本番環境でのAIアプリケーションの実装を可能にする総合的なAIソフトウェアスイートが付属しています"
+  },
+  "lead": {
+    "title": "AIを実用化に繋げる、量子化モデルに最適化されたソフトウェア開発キット",
+    "text1": "Efficieraを使うためには、ソフトウェアが非常に重要です。ニューラルネットワークをどのように量子化するかは、重要な問題になります。",
+    "text2": "もちろん、ニューラルネットワークフレームワークのほとんどは、デフォルトで極端に低いビット数の量子化をサポートしていません。そのため、ニューラルネットワークの量子化器を実装する必要があります。",
+    "text3": "また、Efficieraのために独自のAIモデルコンパイラを実装する必要もあり、最高の性能を発揮できるように独自のネットワークアーキテクチャを設計する必要があります。Efficieraにとって、ハードウェアと同じくらいソフトウェアが重要になります。",
+    "text4": "LeapMindは、これらを自動的に最適化するソフトウェアスイートを用意しています。",
+    "button": "製品に関するお問い合わせ"
+  },
+  "features": {
+    "efficieraNDK": {
+      "subTitle": "量子化モデルの構築・学習",
+      "lists": {
+        "item1": "極小量子化モデル用オペレータライブラリ",
+        "item2": "PyTorchをサポート"
+      }
+    },
+    "efficieraConverter": {
+      "subTitle": "モデルの最適化・変換",
+      "lists": {
+        "item1": "Efficieraが実行可能なインストラクション形式に変換",
+        "item2": "メモリ帯域の最適化",
+        "item3": "データ転送と演算の並列化",
+        "item4": "パフォーマンスプロファイルツールを提供"
+      }
+    },
+    "efficieraRuntimeLibrary": {
+      "subTitle": "エッジデバイスでの実行",
+      "lists": {
+        "item1": "Runtime API（Python, C++）",
+        "item2": "複数モデルの実行状態管理",
+        "item3": "シミュレータ環境を提供"
+      }
+    }
+  },
+  "workflow": {
+    "images": {
+      "ja": {
+        "alt": "Workflow with Efficiera SDK"
+      },
+      "en": {
+        "alt": ""
+      }
+    }
+  },
+  "functions": {
+    "section1": {
+      "section1": {
+        "title": "特徴",
+        "lists": {
+          "item1": "極小量子化ディープラーニングモデルを開発できる唯一の環境",
+          "item2": "Efficieraおよびランタイムライブラリにより実行可能なオペレータを定義した、ディープラーニングフレームワーク用ライブラリ",
+          "item3": "極小量子化の特徴である、量子化係数とスケーリング係数の学習に必要なオペレータを、特別に意識することなくモデルが構築可能",
+          "item4": "TensorBoardによる可視化など、PyTorchから利用できる機能をそのまま活用可能",
+          "item5": "学習結果はONNX形式でエクスポート"
+        }
+      },
+      "section2": {
+        "title": "対応フレームワーク",
+        "lists": {
+          "item1": "PyTorch"
+        }
+      },
+      "section3": {
+        "title": "動作環境",
+        "lists": {
+          "item1": "CUDA対応GPU搭載Ubuntu 18.04 もしくは20.04環境"
+        }
+      }
+    },
+    "section2": {
+      "section1": {
+        "title": "特徴",
+        "lists": {
+          "item1": "極小量子化ディープラーニングモデルをEfficiera用命令に変換できる唯一のツール",
+          "item2": "Efficiera NDKを使用して学習・エクスポートされたONNX形式をEfficiera IPが実行可能な命令列に変換",
+          "item3": {
+            "title": "指定Efficiera構成のリソース制約やメモリ帯域制約に合わせた高度な最適化",
+            "lists": {
+              "item1": "データ転送と演算の並列実行による高速化",
+              "item2": "メモリアクセス削減による省電力化"
+            }
+          },
+          "item4": {
+            "title": "指定Efficiera構成での実行サイクル数、メモリ帯域、メモリ使用量の見積もり",
+            "lists": {
+              "item1": "モデルの規模や構造に適したEfficieraの構成を選択可能"
+            }
+          }
+        }
+      },
+      "section2": {
+        "title": "動作環境",
+        "lists": {
+          "item1": "Intel 64/AMD64プロセッサ用Ubuntu 18.04環境"
+        }
+      }
+    },
+    "section3": {
+      "section1": {
+        "title": "特徴",
+        "lists": {
+          "item1": "Efficiera搭載ハードウェアの性能を最大限に引き出すアプリケーションのためのランタイムライブラリ",
+          "item2": "Efficiera Converterから出力された命令列をターゲット上で実行するためのAPIを提供",
+          "item3": "複数のディープラーニングモデルとEfficieraインスタンス、CPUスレッドの対応関係を管理可能",
+          "item4": "利用可能な場合はCPUのSIMD命令により高速化",
+          "item5": "C++およびPython用APIを定義",
+          "item6": "ホスト環境上のシミュレータも提供するため、ターゲットが未完成な状態でもアプリケーション開発が可能"
+        }
+      },
+      "section2": {
+        "title": "動作環境",
+        "lists": {
+          "item1": "ターゲット(実機)：Armv8-A AArch64およびArmv7-Aプロセッサ用Ubuntu環境",
+          "item2": "ホスト：Intel 64/AMD64プロセッサ用Ubuntu 18.04環境"
+        }
+      }
+    }
+  }
+}

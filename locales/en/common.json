@@ -1,0 +1,16 @@
+{
+  "toLocaleDateString": "en-US",
+  "contact": {
+    "item1": "For inquiries about Octra™",
+    "item2": "For inquiries about Efficiera or models",
+    "item3": "For inquiries about press and requests for giving lectures",
+    "item4": "For inquiries about jobs at LeapMind",
+    "item5": "For inquiries about other matters (e.g. business and business cooperation)",
+    "item6": "Subscribe to newsletter"
+  },
+  "downloadLable": "Download documents",
+  "companyName": "LeapMind Inc.",
+  "address": "3F, Shibuya Dogenzaka Sky Bldg,\n28-1 Maruyama-cho, Shibuya-ku,\nTokyo, 150-0044, Japan",
+  "tel": "+81-3-6696-6267",
+  "scrollText": "Can be scrolled horizontally."
+}

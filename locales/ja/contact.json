@@ -1,0 +1,213 @@
+{
+  "index": {
+    "title": "お問い合わせ",
+    "text": "お問い合わせ内容に近いものを下記お問い合わせ項目よりお選びください。\n営業目的でのお問い合わせはご遠慮くださいませ。"
+  },
+   "octra": {
+  "title": "Octraに関するお問い合わせ"
+},
+  "products": {
+    "title": "Efficieraに関するお問い合わせ",
+    "text": "超低消費電力AIアクセラレータIP「Efficiera」、モデルに関するお問い合わせはこちらのフォームからお送りください。\nお問い合わせの内容によっては、回答に時間を要する場合や、回答しかねる場合がございます。\n営業目的でのお問い合わせはご遠慮ください。"
+  },
+  "event": {
+    "title": "取材・イベント講演などのご依頼",
+    "text": "報道機関からの当社への取材・イベント講演のご依頼などに関してはこちらのフォームよりお問い合わせください。\nフォーム送信後、担当者よりご連絡させていただきます。"
+  },
+  "recruit": {
+    "title": "採用に関するお問い合わせ",
+    "text": "募集職種、採用に関するお問い合わせはこちらのフォームからお送りください。"
+  },  
+  "other": {
+    "title": "その他（事業・業務提携など）に関するお問い合わせ",
+    "text": "業務提携・アライアンス・パートナーに関するお問い合わせはこちらのフォームからお送りください。\nお問い合わせの内容によっては、回答に時間を要する場合や、回答しかねる場合がございます。\n営業目的でのお問い合わせはご遠慮くださいませ。"
+  },
+  "complete": {
+    "title": "お問い合わせありがとうございました。",
+    "text": "お問い合わせ内容を確認のうえ、担当者よりご連絡させていただきます。\n※ お問い合わせの内容によっては、回答に時間を要する場合や、回答しかねる場合がございます。",
+    "button": "トップページへ戻る"
+  },
+  "subscribe": {
+    "title": "ニュースレターの購読希望"
+  },
+  "form": {
+    "required": "必須",
+    "name": {
+      "label": "お名前",
+      "placeholder": "山田太郎"
+    },
+    "company": {
+      "label": "会社名",
+      "placeholder": "LeapMind株式会社"
+    },
+    "phone": {
+      "label": "電話番号",
+      "country": "jp",
+      "caption": "半角数字で入力してください"
+    },
+    "email": {
+      "label": "メールアドレス",
+      "placeholder": "例）sample@leapmind.co.jp"
+    },
+    "division": {
+      "label": "部署名"
+    },
+    "position": {
+      "label": "役職",
+      "placeholder": "選択してください",
+      "items": [
+        "経営者・役員",
+        "部長",
+        "係長・主任",
+        "一般社員",
+        "契約・嘱託・派遣など",
+        "その他"
+      ]
+    },
+    "getNews": {
+      "label": "LeapMindに関する最新情報を受け取る",
+      "items": {
+        "item1": "希望する",
+        "item2": "希望しない"
+      }
+    },
+    "inquiry": {
+      "label": "お問い合わせ項目",
+      "placeholder": "選択してください",
+      "items": [
+        "超低消費電力AIアクセラレータIP Efficiera",
+        "ディープラーニングモデル",
+        "その他"
+      ]
+    },
+    "recruitmentType": {
+      "label": "お問い合わせ種別",
+      "placeholder": "選択してください",
+      "items": [
+        {
+          "id": "hiring",
+          "label": "採用に関するお問い合わせ（法人の方）"
+        },
+        {
+          "id": "careers",
+          "label": "採用に関するご応募（個人の方）"
+        }
+      ]
+    },
+    "device": {
+      "label": "想定環境",
+      "items": {
+        "asic": "ASIC",
+        "fpga-intel": "FPGA (Intel)",
+        "fpga-xilinx": "FPGA (AMD)",
+        "fpga-other": "FPGA (その他)"
+      }
+    },
+    "yourProduct": {
+      "label": "用途および実装予定の製品",
+      "items": {
+        "surveillance-camera": "監視カメラ",
+        "dashcam": "車載カメラ・ドライブレコーダー",
+        "drone": "ドローン",
+        "industrial-machinery": "産業機械（ex. 建機・農機・フォークリフト）",
+        "home-appliances": "家電（ex. デジタルカメラ・TV・掃除機）",
+        "smartphone": "スマートフォン",
+        "robot": "ロボット",
+        "office-equipment": "オフィス機器",
+        "other": "その他"
+      }
+    },
+    "ipPruntime": {
+      "label": "ASIC/FPGAのIP選定時期",
+      "placeholder": "選択してください",
+      "items": [
+        "6ヶ月以内",
+        "1年以内",
+        "1年以上先"
+      ]
+    },
+    "inflow": {
+      "label": "どちらでLeapMindをお知りになりましたか？",
+      "placeholder": "選択してください",
+      "items": [
+        "Web検索",
+        "Web上のニュース記事",
+        "新聞・雑誌などの紙媒体",
+        "友人・知人からの紹介",
+        "SNS-Facebook",
+        "SNS-X (Twitter)",
+        "SNS-その他",
+        "イベント/展示会/セミナー",
+        "既に契約済",
+        "その他"
+      ]
+    },
+    "content": {
+      "label": "お問い合わせ内容",
+      "caption": "※ 資料請求の場合は、資料請求とご記入ください。"
+    },
+    "privacy1": {
+      "text": "お客様の個人情報は、お客様のアカウントの管理、およびお客様が要求した製品やサービスに関連する情報の提供に利用されます。弊社から製品、サービスについてご連絡を差し上げることに同意いただける場合は、以下のチェックボックスをオンにしてください。",
+      "value": "同意する",
+      "label": "LeapMindからの連絡を受信することに同意します。"
+    },
+    "privacy2": {
+      "text": "弊社はお客様が要求した情報を提供するために、お客様の個人情報を保管・処理する必要があります。こうした目的で個人情報を保管することに同意いただける場合は、以下のチェックボックスをオンにしてください。",
+      "value": "同意する",
+      "label": "LeapMindが私の個人情報を保存して処理することを許可することに同意します。"
+    },
+    "privacy3": {
+      "text1": "個人情報の利用につきましては、",
+      "linkText": "当社プライバシーポリシー",
+      "text2": "をご確認ください。"
+    },
+    "sendButton": {
+      "label": "送信する"
+    },
+    "errors": {
+      "message": {
+        "required": "お問い合わせ内容を入力してください"
+      },
+      "product": {
+        "required": "お問い合わせ種目を選択してください"
+      },
+      "recruitmentType": {
+        "required": "お問い合わせ種別を選択してください"
+      },
+      "name": {
+        "required": "お名前を入力してください"
+      },
+      "company": {
+        "required": "会社名を入力してください"
+      },
+      "department": {
+        "required": "部署名を入力してください"
+      },
+      "role": {
+        "required": "役職を選択してください"
+      },
+      "phoneNumber": {
+        "required": "電話番号を入力してください"
+      },
+      "email": {
+        "required": "メールアドレスを入力してください",
+        "invalid": "メールアドレスの形式が正しくありません"
+      },
+      "environment": {
+        "required": "想定環境を選択してください"
+      },
+      "targetProducts": {
+        "required": "用途および実装予定の製品を選択してください"
+      },
+      "targetTerm": {
+        "required": "ASIC/FPGAのIP選定時期を選択してください"
+      },
+      "discoveryChannel": {
+        "required": "選択してください"
+      },
+      "agreeToPrivacyPolicy": {
+        "required": "個人情報保護方針に同意してください"
+      }
+    }
+  }
+}

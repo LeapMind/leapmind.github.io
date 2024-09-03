@@ -1,0 +1,31 @@
+{
+  "mv": {
+    "lead": "To accelerate next-generation of AI capabilities \nthrough faster and simpler AI computation",
+    "text": "Pioneering the practical integration of AI, \nwe offer advanced computing power to business around the world",
+    "button": "View Details",
+    "alt1": "Main image 1",
+    "alt2": "Main image 2",
+    "alt3": "Main image 3",
+    "alt4": "Main image 4"
+  },
+  "leadTitle": "The new standard in AI computing",
+  "leadText": "As AI model sizes, including large-scale language models (LLMs), have grown enormously, they require ever-larger computational processing. However, due to soaring semiconductor prices, supply shortages, and stagnant performance improvements caused by the challenge of semiconductor process technology, we are seeing many companies struggling to secure sufficient computing power to accelerate AI-driven business.\nTo resolve these issues, we, LeapMind, provide both the hardware and software solution as a one-stop service needed to bring AI into society.",
+  "efficiera": {
+    "copy": "Ultra low-power AI inference accelerator IP",
+    "text": "'Efficiera', our state-of-the-art AI inference accelerator IP, achieves industry-leading PPA (Power, Performance, and Area), enabling practical AI models to run on edge devices.",
+    "features": [
+      "Top-class power efficiency in the industry: 107.8TOPS/W",
+      "Compact circuits",
+      "Performance scalability"
+    ]
+  },
+  "octra": {
+    "copy": "World-class AI chip with superior cost performance",
+    "text": "Dedicated to training and inference of AI models, aiming for 2 PFLOPS (petaflops) of computing performance, 10 times more cost-effective than a GPU with the same performance. More information is posted on TechBlog.",
+    "features": [
+      "Designed for AI model training and inference",
+      "Low-bit representation",
+      "Open-source drivers and compilers"
+    ]
+  }
+}

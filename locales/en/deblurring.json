@@ -1,0 +1,59 @@
+{
+  "pageHeader": {
+    "description": "AI-based blur reduction for clearer images"
+  },
+  "model": {
+    "text": "This technology uses AI to reduce blur caused by camera shake or by shooting moving subjects. AI image enhancement can provide sharper images in situations easily affected by blur, such as shooting children, pets, night scenes, and sports events.",
+    "button": "Product Inquiry",
+    "alt1": "Original image",
+    "alt2": "Comparison image",
+    "caption": "Move the slider to the left or right to see the image before and after processing."
+  },
+  "useCase": {
+    "item1": {
+      "title": "Digital camera, Smartphone\n(image stabilization, object sharpening when shooting moving objects such as children and pets)",
+      "text": "Captures moving objects clearly by image stabilization. It provides clear images of kids' athletic events or pets' active movements."
+    },
+    "item2": {
+      "title": "In-vehicle camera\n(improved recognition accuracy for detecting obstacles)",
+      "text": "It improves the accuracy of obstacle detection and collision avoidance systems, enables early detection of pedestrians or bicycles, and maintains a safe distance between vehicles."
+    },
+    "item3": {
+      "title": "Drive recorder\n(subject sharpening of moving objects like cars)",
+      "text": "Clearly records images in traffic accidents and troubles by image stabilization under vibrations and emergency braking. Useful for accident analysis and insurance procedures."
+    },
+    "item4": {
+      "title": "Surveillance camera\n(subject sharpening upon river, port, and traffic monitoring)",
+      "text": "Upon river, port, and traffic surveillance, it provides a clear image of the waterfront and on the road. It helps in the early detection and tracking of illegal activities and hazardous situations."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

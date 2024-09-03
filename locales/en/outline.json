@@ -1,0 +1,73 @@
+{
+  "companyName": {
+    "title": "Company Name",
+    "detail": "LeapMind Inc."
+  },
+  "address": {
+    "title": "Address",
+    "detail": "3F, Shibuya Dogenzaka Sky Bldg,\n28-1 Maruyama-cho, Shibuya-ku,\nTokyo, 150-0044, Japan"
+  },
+  "mainBusiness": {
+    "title": "Main Business",
+    "list": {
+      "item1": "Development of ultra-low power AI accelerator IP Efficiera",
+      "item2": "Development of deep learning models and SDK for Efficiera"
+    }
+  },
+  "establishment": {
+    "title": "Establishment",
+    "detail": "2012"
+  },
+  "capital": {
+    "title": "Capital (Millions of yen)",
+    "detail": "50 million yen (as of June 30, 2023)"
+  },
+  "boardOfDirectors": {
+    "title": "Board of Directors",
+    "list": {
+      "item1": "CEO Soichi Matsuda",
+      "item2": "CTO Hiroyuki Tokunaga",
+      "item3": "Non-executive Directors Koji Abe",
+      "item4": "Non-executive Directors Tokuhiro Kobayashi",
+      "item5": "Non-executive Directors Tokuatsu Furukawa",
+      "item6": "Non-executive Directors Syohei Hido"
+    }
+  },
+  "numberOfMembers": {
+    "title": "Number of Members",
+    "detail": "50"
+  },
+  "banks": {
+    "title": "Banks",
+    "list": {
+      "item1": "Sumitomo Mitsui Banking Corporation",
+      "item2": "Mizuho Bank, Ltd.",
+      "item3": "MUFG Bank, Ltd.",
+      "item4": "Risona Bank, Ltd."
+    }
+  },
+  "customers": {
+    "title": "Customers",
+    "list": {
+      "item1": "Aioi Nissay Dowa Insurance Co., Ltd.",
+      "item2": "Intel Corporation",
+      "item3": "Japan Aerospace Exploration Agency（JAXA）",
+      "item4": "NTT Data Corporation",
+      "item5": "Kawasaki Heavy Industries, Ltd.",
+      "item6": "KDDI Corporation",
+      "item7": "Koito Manufacturing Co., Ltd.",
+      "item8": "Sony Semiconductor Solutions Inc.",
+      "item9": "Dai Nippon Printing Co., Ltd.",
+      "item10": "Dentsu Isobar Inc.",
+      "item11": "Toyota Motor Corporation",
+      "item12": "Hakuhodo Inc.",
+      "item13": "East Japan Railway Company",
+      "item14": "Fujitsu Ltd.",
+      "item15": "Sumitomo Mitsui Construction Co., Ltd.",
+      "item16": "Sumitomo Mitsui Construction Co., Ltd."
+    }
+  },
+  "relatedContent": {
+    "subTitle": ""
+  }
+}

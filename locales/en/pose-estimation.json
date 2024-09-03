@@ -1,0 +1,46 @@
+{
+  "model": {
+    "text1": "This technology uses AI to estimate the positions of joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) of a person or object and their connections from images.",
+    "text2": "By utilizing deep-running models, it can estimate the position and posture of objects with high accuracy.",
+    "button": "Product Inquiry"
+  },
+  "useCase": {
+    "item1": {
+      "title": "Sports Analysis",
+      "text": "Using it in sports such as soccer, basketball, figure skating, etc., it helps analyze the movements of athletes. This can improve training plans or tactics."
+    },
+    "item2": {
+      "title": "Motion captur",
+      "text": "It can improve animation as well as virtual reality experiences by capturing character movements in real-time in film or game production."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

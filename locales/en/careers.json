@@ -1,0 +1,100 @@
+{
+  "jobCategory": {
+    "subTitle": "",
+    "lead": "We are recruiting people who have same passion as we do, transform the world by using cutting-edge machine learning technology. \nRegardless of age, gender, nationality, or race, we respect diverse values and individuality, and provide an environment where everyone can leverage their strengths and grow together. \nLet's enhance our careers and create the future together at LeapMind.",
+    "formLinkLabel": "For inquiries about jobs at LeapMind",
+    "items": [
+       {
+        "title": "Algorithm Engineer ",
+        "url": "https://wrkbl.ink/83XVVro"
+      },
+      {
+        "title": "Lead Machine Learning Engineer",
+        "url": "https://wrkbl.ink/33QwqxG"
+      },
+      {
+        "title": "Business Development（Management level）",
+        "url": "https://wrkbl.ink/d86bSPM"
+      },
+      {
+        "title": "Marketing Communication and Promotion",
+        "url": "https://wrkbl.ink/erQ4KJi"
+      },
+      {
+        "title": "Human Resources（Management level）",
+        "url": "https://apply.workable.com/leapmindzhu-she/j/0514443E8B/"
+      }
+    ],
+    "button": "More Details"
+  },
+  "environment": {
+    "subTitle": "",
+    "lead": {
+      "text1": "We offer various work styles to respect individual circumstances and preferences, such as those who want to obtain a doctoral degree while working or those who prefer short-term or remote work due to family situations. Please refer to the detailed requirements for ",
+      "link": "each job position",
+      "text2": "."
+    },
+    "workStyle": {
+      "text": "Flexible work arrangements are available, including a full-flex system, fully remote work, and refreshment breaks."
+    },
+    "officeEvent": {
+      "text": "To promote information sharing and communication among all employees, we organize social events and barbecues"
+    },
+    "1on1": {
+      "text": "To support employee growth, we conduct individual interviews to deepen communication."
+    },
+    "development": {
+      "text": "To improve the development environment, we provide 4K monitors, laptops, and high-back chairs in the office. We also offer telecommuting allowances (up to 5,000 yen per month)."
+    },
+    "educationSupport": {
+      "text": "We support the costs necessary for skill improvement, such as enrollment in Coursera courses or purchasing books."
+    },
+    "freeDrink": {
+      "text": "In the office, we provide free mineral water, coffee, and alcoholic beverages after working hours."
+    },
+    "holiday": {
+      "text": "We have a 2-day weekend system (Saturdays and Sundays), national holidays, and company-designated days (including year-end and New Year holidays). We also provide paid vacation days (5 days after 3 months of employment, 5 additional days after 6 months). Special leave such as bereavement leave and refreshing vacations are also available."
+    }
+  },
+  "culture": {
+    "techVenture": {
+      "text": "60% of our members are engineers."
+    },
+    "diversity": {
+      "items": {
+        "item1": "Our team consists of members from 6 countries.",
+        "item2": "English and Japanese are commonly spoken, and there are frequent meetings conducted in English.",
+        "item3": "Female employees play active roles in various layers of the organization, including managers and engineers."
+      }
+    },
+    "openMinded": {
+      "items": {
+        "item1": "Full flex system, fully remote work",
+        "item2": "There is close interaction with the board members."
+      }
+    }
+  },
+  "interview": {
+    "subTitle": "",
+    "person1": {
+      "title": "A good culture of encouraging commitment to following through a whole project."
+    },
+    "person2": {
+      "title": "Influence the courage to take on the challenge of great goals."
+    },
+    "person3": {
+      "title": ""
+    },
+    "person4": {
+      "title": ""
+    }
+  },
+  "introduction": {
+    "subTitle": "",
+    "lead": "LeapMind's company introduction and recruitment policy",
+    "slide": {
+      "title": "LeapMind Company profile document / Careers-short(JP)"
+    },
+    "button": "More Details Notion"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "pageHeader": {
+    "description": "Real-time video resolution enhancement"
+  },
+  "model": {
+    "text1": "This technology uses AI to reduce high-ISO noise caused in dark locations and improves image resolution.",
+    "text2": "It is possible to achieve high image resolution by AI in real time on edge devices, even at video shooting where long-second exposures are difficult to use. ",
+    "button": "Product Inquiry",
+    "caption": "There is no audio in this video."
+  },
+  "useCase": {
+    "item1": {
+      "title": "Smartphone (night mode shooting - low light high ISO shooting)",
+      "text": "Effective for shooting in low-light conditions, such as camping at night and night scenes. Also for concerts, live events, and weddings at high ISO settings, for sports games, pets, and other scenes with motion, and for indoor shooting like restaurants and cafes."
+    },
+    "item2": {
+      "title": "Broadcasting camera (high-resolution live images of disasters or incidents at night or in dark places)",
+      "text": "It reduces noise caused by shooting at night or in dark places and enables real-time broadcasting of high-resolution images. This is especially effective in disaster or incident reporting, where accurate and prompt information is required."
+    },
+    "item3": {
+      "title": "Action camera (night shooting)",
+      "text": "It captures players' movements more clearly in outdoor sports at night, for example soccer or baseball games. Even good for outdoor activities like camping, fishing, and stargazing. Nighttime moments can be captured beautifully with minimized noise and image degradation."
+    },
+    "item4": {
+      "title": "Drone (high image quality at night and in dark places)",
+      "text": "The combination of high image resolution and mobility provides superior performance in nighttime and dark location shooting. It can be used for building and infrastructure inspections, disaster monitoring and rescue assistance, filmmaking and advertising production, or event and concert filming."
+    },
+    "item5": {
+      "title": "Surveillance camera (nighttime surveillance - disaster, nature, port, security)",
+      "text": "Improves video quality at night and in dark places, contributing to safety and security. It can record disaster damages, support rescue operations, ensure port safety by monitoring vessels and suspicious activities, and detect illegal entry into buildings or other suspicious activities at an early stage."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pageHeader": {
+    "description": "AI super-resolution technology to enable upscaling without image degradation"
+  },
+  "model": {
+    "text": "This technology uses AI to enhance low-resolution digital images without losing sharpness. Video content shot in low resolution can also be displayed beautifully on 4K/8K TVs.",
+    "button": "Product Inquiry",
+    "alt1": "Original image",
+    "alt2": "Comparison image",
+    "caption": "Move the slider to the left or right to see the image before and after processing."
+  },
+  "useCase": {
+    "item1": {
+      "title": "Digital TV (high-resolution display of low-resolution images)",
+      "text": "Low-resolution images can be displayed clearly, making it possible to play back old movies and TV programs in 4K resolution. Streaming content on the Internet can also be enhanced by AI to higher resolutions, allowing users to enjoy more beautiful images."
+    },
+    "item2": {
+      "title": "Gaming console ( higher resolution of old game software)",
+      "text": "Enables the conversion of old low-resolution game software to high resolution, providing sharp graphics and detailed textures so that old games can be played on modern, high-resolution displays. Players can enjoy nostalgic games with a new visual experience."
+    },
+    "item3": {
+      "title": "Display (higher resolution of input image)",
+      "text": "It enables small devices such as smartphones and tablets to display websites, photos, and videos in higher resolution. It also provides excellent display quality for presentations, design work, and other situations where fine details are particularly important."
+    },
+    "item4": {
+      "title": "AR/VR equipment",
+      "text": "Increases immersion with clearer images and graphics in virtual worlds and augmented reality spaces. More realistic AR/VR experiences will be possible in various fields such as gaming, education, training, and design."
+    }
+  },
+  "applications": {
+    "imageNR": {
+      "text": "AI technology that reduces high-ISO noise caused by low-light shooting to achieve high image quality."
+    },
+    "videoNR": {
+      "text": "Real-time, high-quality image enhancement by AI even in video recording where long-second exposures are difficult to use"
+    },
+    "superResolution": {
+      "text": "AI technology to enhance low-resolution digital images while preserving sharpness"
+    },
+    "deblurring": {
+      "text": "AI technology to reduce blur caused by camera shaking or shooting moving subjects"
+    },
+    "deraining": {
+      "text": "AI technology to remove water drops on the surface of the camera lens from the image after shooting"
+    },
+    "objectDetection": {
+      "text": "AI technology to detect where people, vehicles, and other objects are located in an image"
+    },
+    "segmentation": {
+      "text": "AI technology to divide colors by object areas"
+    },
+    "poseEstimation": {
+      "text": "AI technology to estimate the position of human joints and major points (neck, shoulders, elbows, wrists, ankles, etc.) and their connections"
+    },
+    "classification": {
+      "text": "AI technology to recognize objects in images and classify them"
+    }
+  }
+}

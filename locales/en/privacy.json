@@ -1,0 +1,144 @@
+{
+  "date": {
+    "title": "Enacted：",
+    "detail": "July 11, 2015"
+  },
+  "lastModified": {
+    "title": "Last Modified：",
+    "detail": "October 1, 2021"
+  },
+  "lead": "LeapMind inc. (hereinafter referred to as the “Company“) will promote the protection of personal information in ensuring that all employees are fully aware of the importance of the protection of personal information and fully committed to such. As such, the Company shall establish a system for the protection of personal information in accordance with the following:",
+  "section1": {
+    "title": "1.Control of Personal Information",
+    "text": "In order to maintain personal information in an accurate and up-to-date manner and to prevent from unauthorized access, loss, damage, alteration, and leakage of such personal information; the Company will implement the necessary measures, including maintenance of security system, improvement of management system, employee training, and other implement safety measures to strictly manage personal information. “Personal Information” includes not only personal information as defined in Paragraph 1, Article 2 of the Personal Information Protection Law, but also IP address generated and stored automatically, the operation history, and the status of the user's use of the services."
+  },
+  "section2": {
+    "title": "2.Purpose of Use",
+    "text": "The personal information entrusted by an individual or an entity (hereinafter referred to as “Entrusted Person) shall not be used for any purpose other than the purpose of use set forth below, and adequate measures shall be taken to prevent the personal information for which the purpose of use is not specified shall not be used, and the use of the personal information for any purpose other than the purpose of use herein.",
+    "section": {
+      "title1": "(1) The purpose of use in the circumstance that the personal information being directly acquiring from the Entrusted Person is in writing (including web pages and e-mails): Purpose of use when directly acquiring personal information contained in documents (including web pages and e-mails) from the person in question.",
+      "table1": {
+        "title1": "Classification",
+        "title2": "Purpose of Use",
+        "detail1": "Affiliated Store Information",
+        "detail2": {
+          "text1": "Responding to inquiries about various services",
+          "text2": "Executing of contract",
+          "text3": "Communication and administrative procedures necessary for the contract",
+          "text4": "Performance of the services related to the above"
+        },
+        "detail3": "Clients' information",
+        "detail4": {
+          "text1": "Management of client",
+          "text2": "Business operational activities"
+        },
+        "detail5": "Clients' information",
+        "detail6": "Sales and trading of stock",
+        "detail7": "Job Applicant Information",
+        "detail8": "Recruitment activities (document review, interview, evaluation, contact with applicants, etc.)",
+        "detail9": "Employee details",
+        "detail10": "Management of personnel and labor affairs, social insurance, welfare benefits, etc."
+      },
+      "title2": "(2) The purpose of use in the circumstance that the personal information being acquired directly from the Entrusted Person is not in writing:",
+      "table2": {
+        "title1": "Classification",
+        "title2": "Purpose of Use",
+        "detail1": "Personal information received through telephone and face-to-face inquiries",
+        "detail2": "Response to inquiries and requests\nBusiness operational activities",
+        "detail3": "Information on recorded video",
+        "detail4": "Security management of crime prevention and disaster prevention"
+      }
+    }
+  },
+  "section3": {
+    "title": "3.Prohibition to Disclose and Provide Personal Information to a Third Party",
+    "text": "The Company will properly manage personal information provided by the Entrusted Person and will not disclose or provide such personal information to any third party unless any of the following applies. When outsourcing part of the handling of the personal information, the Company shall enter into an agreement regarding the protection of personal information with the outsourcer and shall exercise necessary and appropriate supervision to ensure the safe management of the personal information.",
+    "list": {
+      "item1": "With the consent of Entrusted Person",
+      "item2": "Cases based on laws and regulations",
+      "item3": "In the event it is necessary to protect the life, body, or property of an individual and it is difficult to obtain the consent of Entrusted Person",
+      "item4": "In the event the handling of personal information is entrusted to the extent necessary for the achievement of the purpose of use",
+      "item5": "In the event of succession of business due to merger, company split, transfer of business, or any other reason"
+    }
+  },
+  "section4": {
+    "title": "4.Safety Measures",
+    "text": "The Company takes all possible security measures to ensure the accuracy and safety of personal information."
+  },
+  "section5": {
+    "title": "5.Rights of Entrusted Person",
+    "text": "With respect to the personal Information held by the Company, any requests from the Entrusted Person or its agent; for notice of the purpose of use, disclosure, correction, addition, deletion of content, suspension of use, and suspension of provision to a third party; the Company in accordance with laws and regulations shall in good faith respond to such request as the following. For details, the Company can be contacted at the information prescribed at the bottom of this document.",
+    "section1": {
+      "title": "(1) Notification for Purpose of Use",
+      "text": "In the event the Company is requested by the Entrusted Person to notify the purpose of use for the disclosure of the personal information which can identifies the Entrusted Person, the Company shall without delay notify the Purpose of Use to the Entrusted Person. Provided, however, the Company may refuse to notify the purpose of use in the event of any of the following item (a) to (d) occurs, in which case, the Company will notify the Entrusted Person to that effect without delay and explain the reason for the refusal.",
+      "list": {
+        "item1": "In cases which notifying or publicly announcing the purpose of use will likely to harm the life, body, property, or other rights or interests of the Entrusted Person or a third party;",
+        "item2": "In cases which notifying or publicly announcing the purpose of use will likely to harm the rights or legitimate interests of the Company;",
+        "item3": "In cases in which it is necessary to cooperate with state or local government in executing the affairs prescribed by laws and regulations and in which notifying or publicly announcing of the purpose of use will likely to impede the execution of the affairs; or",
+        "item4": "In cases which the purpose of use is clear since the purpose of use is a public knowledge."
+      }
+    },
+    "section2": {
+      "title": "(2) Disclosure of Personal Information",
+      "text": "The Company shall, without delay, disclose any Personal Information requested by the Entrusted Person. In addition, if there is no personal information that identifies the Entrusted Person, the Company will inform the Entrusted person accordingly. Provided, however, that in the event of any of the following items (a) to (c) occurs, in which case, the disclosure by the Company may not be possible, the Company will notify the Entrusted Person to that effect without delay and explain the reason.",
+      "list": {
+        "item1": "In cases which disclosure is likely to harm the life, body, property, or other rights or interests of the Entrusted Person or a third party;",
+        "item2": "In cases which disclosure is likely to seriously interfere with the proper execution of the Company's business; or",
+        "item3": "In cases where the disclosure likely to violates laws and regulations."
+      }
+    },
+    "section3": {
+      "title": "(3) Correction, Addition, or Deletion of Personal Information",
+      "text": "In the event any Entrusted Person requests to correct, add, or delete its personal information (hereinafter referred to as the “Correction“) on the grounds that the content of such personal information that identifies such the Entrusted person is not true, the Company shall conduct the necessary investigation without delay within the scope necessary to achieve the purpose of use and shall make Correction of such personal information based on the results of such investigation, except where special procedures are provided for by laws and regulations. In addition, in the event the Company has made Correction, it will notify the entrusted Person of the fact and the details without delay, and in the event, it has decided not to make Correction, it will notify the person of the reason thereof without delay."
+    },
+    "section4": {
+      "title": "(4) Voluntary Provision of Personal Information and the Consequences",
+      "text": "The provision of personal information is at your discretion. If you cannot provide the service, you may not be able to receive the service or response requested by you."
+    }
+  },
+  "section6": {
+    "title": "6. Acquisition of Personal Information",
+    "section1": {
+      "title": "(1) About cookies",
+      "text": "We may use a technology called “cookies“ and other similar technologies, which is an industry-standard technology that allows a web server to identify a client's device. It is not possible to identify a client individual. It is possible to disable using cookies by modifying the settings on the electronic device, but all or part of our website may become inaccessible."
+    },
+    "section2": {
+      "title": "(2) About our information gathering module",
+      "text": "We may incorporate the following information collection module selected by us in order to analyze information such as access to our website. In accordance with this, we may provide the information specified by the provider of the information collection module to the provider (including but not limited to those outside Japan). This information collection module collects information that does not contain personally identifiable information, and the information collected will be managed in compliance with the privacy policy and other provisions established by the information collection module provider.",
+      "module": {
+        "title": "Module：",
+        "detail": "Google Analytics"
+      },
+      "provider": {
+        "title": "Provided by：",
+        "detail": "Google Inc."
+      },
+      "privacy": {
+        "title": "Privacy Policy："
+      }
+    }
+  },
+  "section7": {
+    "title": "7. Observance and Review of Laws and Regulations",
+    "text": "The Company shall comply with the laws and regulations of Japan and other applicable regulations related to the personal information held by the Company. The Company shall make take necessary action to ensure the status, revision, or abolishment of such laws and regulations, and shall endeavor to improve this Policy by review the contents of from time to time and.",
+    "section": {
+      "title": "1.Privacy Policy Consultation Hotline",
+      "text1": "Please contact the following for inquiries regarding the handling of personal information.",
+      "text2": "[Manager of the Personal Information]\nHead of Corporate Planning Division",
+      "telnumber": "+81-3-6696-6267",
+      "company": "LeapMind Inc.",
+      "address": "Shibuya Dogenzaka Sky Building 3F, Maruyamacho 28-1, Shibuya, Tokyo",
+      "ceo": {
+        "title": "CEO：",
+        "detail": "Soichi Matsuda"
+      }
+    }
+  },
+  "section8": {
+    "title": "Side Note:",
+    "list": {
+      "item1": "These regulations will start on July 11, 2015",
+      "item2": "Revised on October 1, 2021"
+    }
+  }
+}

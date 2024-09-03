@@ -1,0 +1,29 @@
+{
+  "pageHeader": {
+    "description": "Easily identify anomalies with only normal images, all on edge devices"
+  },
+  "model": {
+    "text": "Using feature data extracted from images captured by cameras, the model detects anomalies within those images. By learning the distribution of feature data from a small set of normal images and comparing them with the distribution of feature data from new images, it identifies abnormal areas. Our approach exclusively utilizes normal images for training, eliminating the need for manual annotation and enabling the detection of unknown anomalies. Only a few dozen to around 100 images* are required for training.\n(*The number of images required for training depends on the level of variability of the normal images.)",
+    "button": "Product Inquiry",
+    "caption1": "Normal",
+    "caption2": "Anomaly"
+  },
+  "useCase": {
+    "item1": {
+      "title": "Defective detection on Production and /or Inspection process",
+      "text": "By using compact device equipped with AI-powered smart cameras for visual inspections, it can be placed on the production and inspection lines within the factory. This allows for the detection of defective items directly on the lines. The device itself is capable of AI learning, ensuring that sensitive product images do not need to be shared externally due to its ability to perform learning tasks independently."
+    },
+    "item2": {
+      "title": "Foreign object inspection",
+      "text": "With the ease of conducting AI training on-site, it is now possible to perform inspections on objects with individual variations, such as food items. AI-based learning can be done in real time, allowing for immediate inspections. Additionally, it can detect previously unknown foreign objects that were not present during the AI training phase. This capability extends to inspections on multi-product manufacturing lines as well."
+    },
+    "item3": {
+      "title": "Smoke detection in unmanned facilities",
+      "text": "By leveraging surveillance cameras, this instantly detects anomalies caused by smoke in the video feed. it enables rapid initial fire suppression, as well as the evacuation of individuals and protection of assets without waiting for smoke sensors to detect smoke concentration in facilities."
+    },
+    "item4": {
+      "title": "Color inspection",
+      "text": "It detects subtle differences in color shades from color samples, making it useful for tasks like inspecting paint quality. This capability aids in the discovery of color variations that are imperceptible to the human eye without direct side-by-side comparison, helping to ensure product specifications are met."
+    }
+  }
+}

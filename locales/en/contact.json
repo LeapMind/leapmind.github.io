@@ -1,0 +1,215 @@
+{
+  "index": {
+    "title": "Contact",
+    "text": "Please select from the enquiry items below the one closest to your enquiry.\nPlease refrain from making enquiries for sales purposes."
+  },
+   "octra": {
+  "title": "For inquiries about Octra"
+  },
+  "products": {
+    "title": "For inquiries about Efficiera",
+    "text": "For more information on LeapMind products and to contact us, please use this form. It may take some time for us to respond or we may not be able to respond, depending on the content of your inquiry.\n*Please do not contact us for marketing purposes."
+  },
+  "event": {
+    "title": "For inquiries about press and requests for giving lectures",
+    "text": "If you have any questions about our products or joint development project,\nor if you would like to interview us, please fill out the inquiry form below.\nWe will reply to you if necessary. Please do not contact us for marketing purposes."
+  },
+  "recruit": {
+    "title": "For inquiries about jobs at LeapMind",
+    "text": "For Inquiries about open positions and recruitment, please contact us via this form."
+  },
+  "other": {
+    "title": "For inquiries about other matters (e.g. business and business cooperation)",
+    "text": "For inquiries related to business partnership and technology alliances, please use this form.\nIt may take some time for us to respond or we may not be able to respond, depending on the content of your inquiry."
+  },
+  "complete": {
+    "title": "Thank you for your inquiry.",
+    "text": "Thank you for your inquiry. We will contact you as soon as possible.",
+    "button": "Back to Top"
+  },
+  "subscribe": {
+    "title": "Subscribe to newsletter"
+  },
+ 
+  "form": {
+    "required": "required",
+    "name": {
+      "label": "Name",
+      "placeholder": ""
+    },
+    "company": {
+      "label": "Company",
+      "placeholder": ""
+    },
+    "phone": {
+      "label": "Phone",
+      "country": "us",
+      "caption": "Please use single-byte numbers."
+    },
+    "email": {
+      "label": "Email address",
+      "placeholder": ""
+    },
+    "division": {
+      "label": "Division"
+    },
+    "position": {
+      "label": "Position",
+      "placeholder": "Please choose one",
+      "items": [
+        "CXO or Director",
+        "Head of a department",
+        "Manager",
+        "Assistant Manager",
+        "Member",
+        "Contractor, Contingent Worker, Dispatched, etc.",
+        "Others"
+      ]
+    },
+    "getNews": {
+      "label": "Receive updates on LeapMind.",
+      "items": {
+        "item1": "Yes, I need your latest information.",
+        "item2": "No, I don't need it."
+      }
+    },
+    "inquiry": {
+      "label": "Enquiry item",
+      "placeholder": "Please choose one",
+      "items": [
+        "Ultra Low Power AI Accelerator IP Efficiera",
+        "Deep learning model",
+        "Others"
+      ]
+    },
+    "recruitmentType": {
+      "label": "Inquiry type",
+      "placeholder": "Please choose one",
+      "items": [
+        {
+          "id": "hiring",
+          "label": "Recruitment Inquiries (For Corporations)"
+        },
+        {
+          "id": "careers",
+          "label": "Job Application (For Individuals)"
+        }
+      ]
+    },
+    "device": {
+      "label": "Your device",
+      "items": {
+        "asic": "ASIC",
+        "fpga-intel": "FPGA (Intel)",
+        "fpga-xilinx": "FPGA (AMD)",
+        "fpga-other": "FPGA (others)"
+      }
+    },
+    "yourProduct": {
+      "label": "Usages and Types of End products",
+      "items": {
+        "surveillance-camera": "Surveillance camera",
+        "dashcam": "In-vehicle camera and drive recorder",
+        "drone": "Drone",
+        "industrial-machinery": "Industrial machinery (ex. construction machinery, agricultural machinery, forklift)",
+        "home-appliances": "Home appliance (ex. digital camera, TV, vacuum cleaner)",
+        "smartphone": "Smart phone",
+        "robot": "Robot",
+        "office-equipment": "Office equipment",
+        "other": "Others"
+      }
+    },
+    "ipPruntime": {
+      "label": "When to select IP types of ASIC/FPGA?",
+      "placeholder": "Please choose one",
+      "items": [
+        "Within 6 months",
+        "Within 1 year",
+        "More than 1 year ahead"
+      ]
+    },
+    "inflow": {
+      "label": "How did you know LeapMind?",
+      "placeholder": "Please choose one",
+      "items": [
+        "Web search",
+        "Web news, Web media articles",
+        "Articles of the magazines and newspapers",
+        "Referral from a friend or acquaintance",
+        "SNS-Facebook",
+        "SNS-X (Twitter)",
+        "SNS-Other",
+        "Event / Exhibition / Seminar",
+        "Already contacted",
+        "Others"
+      ]
+    },
+    "content": {
+      "label": "Message",
+      "caption": "*When you request for further reference on Efficiera, please indicate that."
+    },
+    "privacy1": {
+      "text": "Your personal information is used for managing your account and providing information related to the products and services you have requested. If you agree to receive contact from us about our products and services, please turn on the checkbox below.",
+      "value": "Agreed",
+      "label": "I agree to receive communications from LeapMind."
+    },
+    "privacy2": {
+      "text": "We need to store and process your personal information in order to provide the information you've requested. If you agree to have your personal information stored for these purposes, please turn on the checkbox below.",
+      "value": "Agreed",
+      "label": "I agree to allow LeapMind to store and process my personal information."
+    },
+    "privacy3": {
+      "text1": "For information on the use of personal data, please refer to ",
+      "linkText": "our Privacy Policy.",
+      "text2": ""
+    },
+    "sendButton": {
+      "label": "Send Message"
+    },
+    "errors": {
+      "message": {
+        "required": "Please enter the content of your Enquiry"
+      },
+      "product": {
+        "required": "Please select the Enquiry item"
+      },
+      "recruitmentType": {
+        "required": "Please select the Enquiry item"
+      },
+      "name": {
+        "required": "Please enter your name"
+      },
+      "company": {
+        "required": "Please enter your company name"
+      },
+      "department": {
+        "required": "Please enter your department name"
+      },
+      "role": {
+        "required": "Please select your role"
+      },
+      "phoneNumber": {
+        "required": "Please enter your phone number"
+      },
+      "email": {
+        "required": "Please enter your email address",
+        "invalid": "The email address format is incorrect"
+      },
+      "environment": {
+        "required": "Please select the expected environment"
+      },
+      "targetProducts": {
+        "required": "Please select the intended application and product to be implemented"
+      },
+      "targetTerm": {
+        "required": "Please select the timing of IP selection for ASIC/FPGA"
+      },
+      "discoveryChannel": {
+        "required": "Please make a selection"
+      },
+      "agreeToPrivacyPolicy": {
+        "required": "Please agree to the privacy policy"
+      }
+    }    
+  }
+}

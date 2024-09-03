@@ -1,0 +1,73 @@
+{
+  "companyName": {
+    "title": "会社名",
+    "detail": "LeapMind株式会社\n（英語表記：LeapMind Inc.）"
+  },
+  "address": {
+    "title": "所在地",
+    "detail": "〒150-0044\n東京都渋谷区円山町28-1渋谷道玄坂スカイビル 3F"
+  },
+  "mainBusiness": {
+    "title": "事業内容",
+    "list": {
+      "item1": "超低消費電力AIアクセラレータIP Efficieraの開発",
+      "item2": "Efficiera用ディープラーニングモデル、SDKの開発"
+    }
+  },
+  "establishment": {
+    "title": "設立",
+    "detail": "2012年"
+  },
+  "capital": {
+    "title": "資本金（百万円）",
+    "detail": "50百万円（2023年6月30日時点）"
+  },
+  "boardOfDirectors": {
+    "title": "役員",
+    "list": {
+      "item1": "松田 総一（代表取締役 CEO）",
+      "item2": "徳永 拓之（取締役 CTO）",
+      "item3": "阿部 剛士（社外取締役）",
+      "item4": "小林 徳弘（社外取締役）",
+      "item5": "古川 徳厚（社外取締役）",
+      "item6": "比戸将平（社外取締役）"
+    }
+  },
+  "numberOfMembers": {
+    "title": "従業員数",
+    "detail": "50名"
+  },
+  "banks": {
+    "title": "取引銀行",
+    "list": {
+      "item1": "三井住友銀行",
+      "item2": "みずほ銀行",
+      "item3": "三菱東京UFJ銀行",
+      "item4": "りそな銀号"
+    }
+  },
+  "customers": {
+    "title": "取引先一覧",
+    "list": {
+      "item1": "あいおいニッセイ同和損害保険株式会社",
+      "item2": "Intel Corporation",
+      "item3": "国立研究開発法人宇宙航空研究開発機構（JAXA）",
+      "item4": "株式会社NTTデータ",
+      "item5": "川崎重工業株式会社",
+      "item6": "KDDI株式会社",
+      "item7": "株式会社小糸製作所",
+      "item8": "ソニーセミコンダクタソリューションズ株式会社",
+      "item9": "大日本印刷株式会社",
+      "item10": "電通アイソバー株式会社",
+      "item11": "トヨタ自動車株式会社",
+      "item12": "株式会社博報堂",
+      "item13": "株式会東日本旅客鉄道株式会社（JR東日本）社パナソニック",
+      "item14": "富士通株式会社",
+      "item15": "三井住友建設株式会社",
+      "item16": "三井物産株式会社"
+    }
+  },
+  "relatedContent": {
+    "subTitle": "関連コンテンツ"
+  }
+}
